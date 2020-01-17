@@ -93,9 +93,9 @@ We can demonstrate this in GitHub with a simple branch.
 Any questions about using Git to collaborate?
 
 # Resources
-- guides.github.com/activities/hello-world/
-- guides.github.com/introduction/git-handbook/
-- github.github.com/training-kit/
+- https://guides.github.com/activities/hello-world/
+- https://guides.github.com/introduction/git-handbook/
+- https://github.github.com/training-kit/
 
 # References
 - In Case of Fire image: https://i.imgur.com/IiAdxbB.png
