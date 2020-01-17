@@ -5,6 +5,7 @@
 - Git to Collaborate
 - Question Time 2
 - Resources
+- References
 
 # Introduction to Git
 ## What is Git?
@@ -12,7 +13,7 @@ Git is a version control system often used to keep track of changes in source co
 Though source code is not the only use for Git as it can be extended to other text-based file formats like this.
 An example would be using Git for amendments to The U.S. Constitution: github.com/JesseKPhillips/USA-Constitution.
 
-![Priorities of Software Development](InCaseOfFire.png)
+![Priorities of Software Development](https://i.imgur.com/IiAdxbB.png)
 
 ## What is Git Used For?
 Git has many different use cases, some of the most common uses are:
@@ -45,7 +46,7 @@ For example, if we create two files, _a.txt_ and _b.txt_, but _a.txt_ is used fo
 - _git checkout_: Switch to another branch
 - _git merge_: Merge another branch's snapshots into the current branch
 
-![A Common Git Workflow](GitWorkflow.png)
+![A Common Git Workflow](https://www.edureka.co/blog/wp-content/uploads/2016/11/Git-Architechture-Git-Tutorial-Edureka-2.png)
 
 ## Walkthrough
 We will demonstrate some of these ideas by first creating a repository on GitHub.
@@ -68,9 +69,10 @@ Branches are useful in real world scenarios where the code needs to be deployabl
 For example, if we had code to convert a data set from _csv_ to _json_, we may need to run this program at any point if new data comes in.
 However, if we want to add functionality to convert to another data format, we may need to rewrite and `break' the existing code.
 
-![An Example Branch Diagram](Branches.png)
+![An Example Branch Diagram](https://git-scm.com/book/en/v2/images/basic-branching-4.png)
 
 # Question Time 1
+Any questions about using Git as version control?
 
 # Git to Collaborate
 ## Pushing and Pulling
@@ -88,8 +90,14 @@ A pull request has many uses, but some of the most important uses are to provide
 We can demonstrate this in GitHub with a simple branch.
 
 # Question Time 2
+Any questions about using Git to collaborate?
 
 # Resources
 - guides.github.com/activities/hello-world/
 - guides.github.com/introduction/git-handbook/
 - github.github.com/training-kit/
+
+# References
+- In Case of Fire image: https://i.imgur.com/IiAdxbB.png
+- Git Workflow image: https://www.edureka.co/blog/wp-content/uploads/2016/11/Git-Architechture-Git-Tutorial-Edureka-2.png
+- Git Branches image: https://git-scm.com/book/en/v2/images/basic-branching-4.png
