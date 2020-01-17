@@ -34,7 +34,7 @@ Then when the file is modified, Git will take a snapshot afterwards, storing the
 Importantly, Git still has the snapshot from after the file was created and before it was modified, available to fall back on if the modifications (or deletion!) is undesirable.
 
 ## Staging Area
-Git allows users to selectively add files to snapshot by using something called the \textit{staging area}.
+Git allows users to selectively add files to snapshot by using something called the _staging area_.
 
 For example, if we create two files, _a.txt_ and _b.txt_, but _a.txt_ is used for temporary configuration and we don't want Git to take a snapshot of it, we can add _b.txt_ to the staging area and then when we take the snapshot _b.txt_ will be in the snapshot but not _a.txt_.
 
